@@ -1,0 +1,19 @@
+{
+	"name": "HFTPServer",
+	"description": "Simple Home-FTP Server for Ethernet Shields (COPY)",
+	"keywords": "ftp, server",
+    "authors":
+		{
+			"name": "Alex de Paula",
+			"email": "alexdepaula@outlook.com",
+			"url": "https://github.com/alexdepaula89"
+		},
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/alexdepaula89/Arduino-Ftp-Server"
+	},
+	"url": "https://github.com/alexdepaula89/",
+	"frameworks": "Arduino",
+	"platforms": "*"
+}
